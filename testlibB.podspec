@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'testlibB'
-  s.version          = '0.1.1'
+  s.version          = '0.1.2'
   s.summary          = 'part of the multi-lib tests.'
 
 # This description is used to generate tags and improve search results.
@@ -30,7 +30,7 @@ part of the multi-lib tests.
 
   s.source_files = 'testlibB/Classes/**/*'
   
-  s.dependency 'testcommon', '0.1.0'
+  s.dependency 'testcommon', '0.1.1'
   
   # s.resource_bundles = {
   #   'testlibB' => ['testlibB/Assets/*.png']
