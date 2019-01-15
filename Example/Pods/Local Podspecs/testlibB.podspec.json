@@ -1,0 +1,22 @@
+{
+  "name": "testlibB",
+  "version": "0.1.0",
+  "summary": "A short description of testlibB.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/\u001b[01;31m\u001b[Kacct\u001b[m\u001b[K<blob>=lhallcx/testlibB",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "\u001b[01;31m\u001b[Kacct\u001b[m\u001b[K<blob>=lhallcx": "lhall@cafex.com"
+  },
+  "source": {
+    "git": "https://github.com/\u001b[01;31m\u001b[Kacct\u001b[m\u001b[K<blob>=lhallcx/testlibB.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "testlibB/Classes/**/*"
+}
