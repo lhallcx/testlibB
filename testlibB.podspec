@@ -32,6 +32,8 @@ TODO: Add long description of the pod here.
 
   s.source_files = 'testlibB/Classes/**/*'
   
+  s.dependency 'testcommon', '0.1.0'
+  
   # s.resource_bundles = {
   #   'testlibB' => ['testlibB/Assets/*.png']
   # }

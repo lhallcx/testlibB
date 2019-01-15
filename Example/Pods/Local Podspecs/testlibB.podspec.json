@@ -18,5 +18,10 @@
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "testlibB/Classes/**/*"
+  "source_files": "testlibB/Classes/**/*",
+  "dependencies": {
+    "testcommon": [
+      "0.1.0"
+    ]
+  }
 }
